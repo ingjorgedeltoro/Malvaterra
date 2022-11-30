@@ -1,0 +1,19 @@
+.TextBton{
+    color:#463239;
+}
+#index{
+    background-color:peru;
+}
+.nav-item{
+    margin:10px;
+    text-decoration:none;
+}
+a:link {
+    text-decoration: none 
+}
+a:hover {
+     color: white; font-family: arial; text-decoration: none 
+}
+a:visited {
+    color: white;  font-family: arial; text-decoration: none 
+}

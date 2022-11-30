@@ -1,0 +1,24 @@
+.ContainerTittle{
+    display: flex;
+    margin: 2%;
+}
+.TittleNavbar{
+    padding: 5%;
+    margin-top: 5%;
+    vertical-align: middle;
+    color: #FFFF;
+}
+.navbarSalon{
+    background-color: #463239 !important;
+    margin: 0;
+}
+.nav-link{
+    color: #FFF;
+}
+.nav-link:focus,
+.nav-link:hover{
+    color: #ED6B86 !important;
+}
+
+   
+   
